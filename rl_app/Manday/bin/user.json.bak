@@ -1,0 +1,208 @@
+{
+    "Prod": {
+        "zhangning": {
+            "cn_name": "张宁",
+            "check": 1
+        },
+        "xuyuanyuan": {
+            "cn_name": "徐圆圆",
+            "check": 1
+        },
+        "shalin": {
+            "cn_name": "沙林",
+            "check": 1
+        }
+    },
+    "FX": {
+        "sunshiyu": {
+            "cn_name": "孙世钰",
+            "check": 1
+        },
+        "shiyu": {
+            "cn_name": "世玉",
+            "check": 1
+        },
+        "chengan": {
+            "cn_name": "陈干",
+            "check": 1
+        },
+        "tianliang": {
+            "cn_name": "添亮",
+            "check": 1
+        },
+        "wangzida": {
+            "cn_name": "王自达",
+            "check": 1
+        },
+        "wangchenyang": {
+            "cn_name": "王晨阳",
+            "check": 1
+        },
+        "penglei": {
+            "cn_name": "彭磊",
+            "check": 1
+        },
+        "dangzixin": {
+            "cn_name": "党子辛",
+            "check": 1
+        },
+        "qimuren": {
+            "cn_name": "祁牧人",
+            "check": 1
+        },
+        "liudongfang": {
+            "cn_name": "刘东方",
+            "check": 1
+        },
+        "qianzhongli": {
+            "cn_name": "钱忠利",
+            "check": 1
+        },
+        "sunzetao": {
+            "cn_name": "孙泽涛",
+            "check": 1
+        },
+        "yuhaotian": {
+            "cn_name": "于浩添",
+            "check": 1
+        },
+        "liyunlong": {
+            "cn_name": "李云龙",
+            "check": 1
+        },
+        "liusizhi": {
+            "cn_name": "刘思志",
+            "check": 1
+        },
+        "zhaoguoqing": {
+            "cn_name": "赵国庆",
+            "check": 1
+        },
+        "jiangmingyao": {
+            "cn_name": "江名瑶",
+            "check": 1
+        },
+        "tianhuhe": {
+            "cn_name": "田呼和",
+            "check": 1
+        },
+        "gaoting": {
+            "cn_name": "高霆",
+            "check": 1
+        },
+        "liuhaojie": {
+            "cn_name": "刘豪杰",
+            "check": 0
+        },
+        "miaodawei": {
+            "cn_name": "苗大伟",
+            "check": 0
+        },
+        "wusimin": {
+            "cn_name": "吴思敏",
+            "check": 0
+        },
+        "lisi": {
+            "cn_name": "李思",
+            "check": 0
+        },
+        "liushuang": {
+            "cn_name": "刘双",
+            "check": 1
+        }
+    },
+    "Comp": {
+        "liuyulong": {
+            "cn_name": "刘宇龙",
+            "check": 1
+        },
+        "jihui": {
+            "cn_name": "姬晖",
+            "check": 1
+        },
+        "linjunyi": {
+            "cn_name": "林君义",
+            "check": 1
+        },
+        "zouzhuofan": {
+            "cn_name": "邹卓凡",
+            "check": 1
+        },
+        "liuxing": {
+            "cn_name": "柳幸",
+            "check": 1
+        },
+        "luhao": {
+            "cn_name": "鲁浩",
+            "check": 1
+        },
+        "zhangchen": {
+            "cn_name": "张晨",
+            "check": 1
+        },
+        "fengyichen": {
+            "cn_name": "丰伊辰",
+            "check": 1
+        },
+        "sunchuanqi": {
+            "cn_name": "孙川棋",
+            "check": 1
+        },
+        "guchunhua": {
+            "cn_name": "顾春华",
+            "check": 1
+        },
+        "liangxiaodong": {
+            "cn_name": "梁晓东",
+            "check": 1
+        },
+        "pengcheng": {
+            "cn_name": "彭程",
+            "check": 1
+        },
+        "hanzixing": {
+            "cn_name": "韩梓兴",
+            "check": 0
+        },
+        "zhangtianyu": {
+            "cn_name": "张天宇",
+            "check": 0
+        }
+    },
+    "Anim": {
+        "duanhaibao": {
+            "cn_name": "段海报",
+            "check": 0
+        },
+        "wangkun": {
+            "cn_name": "王坤",
+            "check": 0
+        },
+        "zhangjingbo": {
+            "cn_name": "张静波",
+            "check": 0
+        }
+    },
+    "TD": {
+        "pengyuxuan": {
+            "cn_name": "彭宇轩",
+            "check": 1
+        },
+        "liuyongli": {
+            "cn_name": "刘永立",
+            "check": 1
+        },
+        "huxinjie": {
+            "cn_name": "胡心洁",
+            "check": 0
+        },
+        "yangshuanghe": {
+            "cn_name": "杨双赫",
+            "check": 0
+        },
+        "dangzixin": {
+            "cn_name": "党子辛",
+            "check": 0
+        }
+    }
+}
